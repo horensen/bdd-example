@@ -1,0 +1,18 @@
+{
+  "name": "fibonacci_bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "node app.js",
+    "cucumber-js": "cucumber-js test/cucumber/features"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^4.2.1",
+    "mocha": "^5.2.0",
+    "path": "^0.12.7"
+  }
+}
